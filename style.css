@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    background-image: radial-gradient(circle at 95.65% 50%, #df8b4b 0, #d69044 12.5%, #cd953f 25%, #c4993c 37.5%, #b99d3a 50%, #aea13a 62.5%, #a2a43d 75%, #96a842 87.5%, #89ab48 100%);}
+
+main {
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+header {
+    background-size: cover;
+    background-image: url("https://img.freepik.com/fotos-gratis/via-lactea_1401-347.jpg?t=st=1656552821~exp=1656553421~hmac=7c472321ce8c780c7cd7b253b3e4acce7d8849678a41aa70002e1f1a64e5f91c&w=740");
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    transform: translateY(-50%);
+    border: 8px solid white;
+}
